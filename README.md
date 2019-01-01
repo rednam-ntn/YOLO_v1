@@ -1,0 +1,3 @@
+## YOLO shape detection
+YOLO object-detection with tensorflow and training with simple shape such as triangle, square, v.v...
+and this notebook is part of my assignment with an AI course.
